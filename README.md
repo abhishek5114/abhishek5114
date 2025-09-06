@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek5114" alt="abhishek5114" /></a> </p>
 
-- 📝 I regularly write articles on [INTERNSHIP INSIDER](INTERNSHIP INSIDER)
+- 📝 I regularly write articles on INTERNSHIP INSIDER.
 
 - 📫 How to reach me **abhishek51145114@gmail.com**
 
-- 📄 Know about my experiences [[📄 View My Resume]file:///C:/Users/Abhishek/Downloads/Abhishek_Resume.pdf]([📄 View My Resume]file:///C:/Users/Abhishek/Downloads/Abhishek_Resume.pdf)
+- 📄 Know about my experiences file:///C:/Users/Abhishek/Downloads/Abhishek_Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
