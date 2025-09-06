@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhishek51145114@gmail.com**
 
-- 📄 Know about my experiences [📄 View My Resume][(https://drive.google.com/file/d/FILE_ID/view?usp=sharing)](https://drive.google.com/drive/quota)
+- 📄 Know about my experiences [📄 View My Resume](https://drive.google.com/drive/quota)
 
 
 
